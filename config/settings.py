@@ -24,7 +24,7 @@ SECRET_KEY = "django-insecure-a1qb!^1!y6vv1m=jgmewl2s2n^a784!3=&%*@5p!1qbj7fvv@4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['viethoaduc.com', 'www.viethoaduc.com', 'ai-chatbot-rose-theta.vercel.app', 'ai-chatbot-ducvieths-projects.vercel.app', 'ai-chatbot-git-main-ducvieths-projects.vercel.app']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
